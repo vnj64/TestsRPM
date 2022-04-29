@@ -1,2 +1,2 @@
 # TestsRPM
-Tests for 
+A homework for development of software modules.
